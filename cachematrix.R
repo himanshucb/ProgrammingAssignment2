@@ -24,7 +24,6 @@ makeCacheMatrix <- function(x = matrix())
 		{
 			x <<- data
 			mat_inv <<- NULL
-			print("different")
 		}
 	}
 
